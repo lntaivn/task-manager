@@ -1,5 +1,5 @@
 ## Project Setup
 
-In order to run the project, setup .env and set MONGO_URI variable equal to DB connection string.
+Để chạy dự án, thiết lập tệp .env và đặt biến MONGO_URI bằng chuỗi kết nối cơ sở dữ liệu (DB connection string).
 
-In order to avoid port collisions, in the source code port value is 5000
+Để tránh xung đột cổng (port collisions), trong mã nguồn, giá trị cổng (port) được đặt là 5000.
